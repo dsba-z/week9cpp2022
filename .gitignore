@@ -77,3 +77,6 @@ code/build*
 
 build/*
 code/src/problem1_cities/main
+code/src/problem2_matches/main
+code/src/problem2_matches/tempCodeRunnerFile.cpp
+.vscode/settings.json
